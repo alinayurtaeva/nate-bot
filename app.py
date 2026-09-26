@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
 # Безопасное получение токенов из переменных окружения системы
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8192021151:AAGRBBqQu2j13Gs-HA8CMIhMgPA44_n-mNk")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8921022151:AAGPese9vF4flvm2JR_sXQYfTM_ZNoY-6iI")
 OPENROUTER_KEY = os.getenv("OPENROUTER_KEY", "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")
 NOTION_DB_GOALS = os.getenv("NOTION_DB_GOALS", "3e75793e645880bc97a2f5eb87db59be")
 NOTION_DB_PLAN = os.getenv("NOTION_DB_PLAN", "3e75793e645880ec9a94000cfcdad1c3")
